@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnahid20&label=Profile%20views&color=0e75b6&style=flat" alt="mdnahid20" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/muhammadnahid6" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadnahid6?logo=twitter&style=for-the-badge" alt="muhammadnahid6" /></a> </p>
-
 ---
 
 ### 👨‍💻 About Me  
@@ -14,9 +12,9 @@
 - 🌐 Passionate about **Web Development** (React, Angular, .NET, Django)  
 - ⚡ Intermediate in **Telerik** & **Kendo Grid**  
 - ☁️ Exploring **AWS Cloud (Basic)**  
-- ⚙️ Hands-on with **IIS** for .NET deployments  
+- ⚙️ Hands-on with **IIS**  
 - 🔒 Implementing **CSP (Content Security Policy)** for secure web apps   
-- 💬 Ask me about **CP, Angular, .NET, React, SQL, HTML, CSS, JS**  
+- 💬 Ask me about **CP, Angular, .NET, React, SQL, JS**  
 - 📫 Reach me at **mdnahidchy2017@gmail.com**  
 - ⚡ Fun fact: *I think I’m funny 😄*  
 
@@ -45,8 +43,6 @@
   <a href="https://angular.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.iis.net/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/iis-icon-512x512-hk63sk0u.png" alt="IIS" width="40" height="40"/></a>
-  <a href="https://www.telerik.com/" target="_blank"><img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/telerik-logo.svg" alt="telerik" width="40" height="40"/></a>
   <a href="https://www.telerik.com/kendo-ui" target="_blank"><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="kendo" width="40" height="40"/></a>
 </p>
 
